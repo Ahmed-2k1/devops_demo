@@ -39,4 +39,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: ahmeduddinyasarr/devops_demo:latest
+          tags: ahmeduddinyasarmohammed/devops_demo:latest
